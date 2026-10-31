@@ -369,7 +369,7 @@ world_list = [
 ]
 
 filler_item_table = {
-    "Coins": 9994,
+    "Coins": 1000,
 }
 
 flag_items = {
